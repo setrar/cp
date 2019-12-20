@@ -15,7 +15,7 @@
 
 |    Projects                                                    | Description                  |  Comments   |
 |:---------------------------------------------------------------|:-----------------------------|:------------| 
-| [Get Programming with Haskell](https://github.com/setrar/fp/gpw-haskell)  | FP in Haskell  :closed_book: |             |
+| [Get Programming with Haskell](https://github.com/setrar/fp/get-programming-with-haskell)  | FP in Haskell :closed_book: |             |
 | [Scala Red Book](https://github.com/setrar/redbook)                    | FP in Scala  :closed_book:   |             |
 | [Scala for the Impatient](https://github.com/setrar/impatient)         | Scala tips .                 |             |
 | [CLRSS](https://github.com/setrar/clrsS)                               | Intro. to algorithm Playground  | CLRS Book   |
