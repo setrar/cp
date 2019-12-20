@@ -4,11 +4,11 @@
 
 ## Practices From Testing Web Sites
 
-|    Projects                                            | Description                     |  Comments   |
-|:-------------------------------------------------------|:--------------------------------|:------------| 
-| [CodilityS](https://github.com/setrar/codilityS)       | Codility Test Preparation       | [Toptal](http://toptal.com)|
-| [HackerRankS](https://github.com/setrar/hackerrankS)   | Hacker Rank Playground          |             |
-| [LeetCodeS](https://github.com/setrar/leetcodeS)       | Leet Code Playground            | Amazon      |
+|    Projects                  | Description                     |  Comments   |
+|:-----------------------------|:--------------------------------|:------------| 
+| [CodilityS](codilityS)       | Codility Test Preparation       | [Toptal](http://toptal.com)|
+| [HackerRankS](hackerrankS)   | Hacker Rank Playground          |             |
+| [LeetCodeS](leetcodeS)       | Leet Code Playground            | Amazon      |
 
 
 ## Practices From Books
